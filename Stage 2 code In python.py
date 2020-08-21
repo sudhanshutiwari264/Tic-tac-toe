@@ -1,4 +1,4 @@
-# write your co
+
 a = input()
 b = []
 for i in a:
